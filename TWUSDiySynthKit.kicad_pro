@@ -506,28 +506,34 @@
         "wire_width": 6
       },
       {
-        "name": "+3V3",
+        "name": "+3.3V",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 2,
+        "priority": 3,
         "schematic_color": "rgb(255, 39, 0)"
+      },
+      {
+        "name": "5V",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 0,
+        "schematic_color": "rgb(255, 0, 241)"
       },
       {
         "line_style": 0,
         "name": "GND",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 1,
+        "priority": 2,
         "schematic_color": "rgb(0, 0, 0)"
       },
       {
         "name": "GPIO",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 3,
+        "priority": 4,
         "schematic_color": "rgb(4, 159, 0)"
       },
       {
         "name": "I2C",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 0,
+        "priority": 1,
         "schematic_color": "rgb(22, 0, 255)"
       }
     ],
@@ -542,8 +548,8 @@
         "pattern": "GND"
       },
       {
-        "netclass": "+3V3",
-        "pattern": "+3V3"
+        "netclass": "+3.3V",
+        "pattern": "+3.3V"
       },
       {
         "netclass": "I2C",
@@ -552,6 +558,10 @@
       {
         "netclass": "GPIO",
         "pattern": "*GP*"
+      },
+      {
+        "netclass": "5V",
+        "pattern": "5V"
       }
     ]
   },
