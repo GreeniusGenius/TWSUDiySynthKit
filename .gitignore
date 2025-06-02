@@ -386,3 +386,5 @@ Temporary Items
 #auto_saved_files#
 *.lck
 
+*.lck
+~TWUSDiySynthKit.kicad_sch.lck

@@ -8243,7 +8243,7 @@
 		(descr "SMD pad as test Point, diameter 2.5mm")
 		(tags "test point SMD pad")
 		(property "Reference" "TP2"
-			(at 0 -2.148 0)
+			(at -2.4 0 90)
 			(layer "F.SilkS")
 			(uuid "c5b1dfc5-90eb-48e3-be70-4f973f3bd044")
 			(effects
@@ -24218,6 +24218,19 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "5V"
+		(at 250.4 45.1 0)
+		(layer "F.SilkS" knockout)
+		(uuid "66a05217-374b-4bc1-897d-152e31e2fd5a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "SCL, SDA, 3.3V, GND ⟳"
 		(at 67.31 26.4 0)
 		(layer "F.SilkS" knockout)
@@ -24813,6 +24826,19 @@
 		(at 144.2 27.5 0)
 		(layer "F.SilkS" knockout)
 		(uuid "90fd9151-78aa-4b80-9e82-2194501168e8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "3.3V"
+		(at 84.8 25.3 0)
+		(layer "F.SilkS" knockout)
+		(uuid "9384e541-2ab8-4802-a1ae-f470db2ccab3")
 		(effects
 			(font
 				(size 1 1)
