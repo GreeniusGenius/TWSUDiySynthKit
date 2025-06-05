@@ -1,0 +1,3 @@
+[submodule "TWSUSynthKitFirmware"]
+	path = TWSUSynthKitFirmware
+	url = ./TWSUSynthKitFirmware
