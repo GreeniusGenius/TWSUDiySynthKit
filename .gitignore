@@ -388,3 +388,19 @@ Temporary Items
 
 *.lck
 ~TWUSDiySynthKit.kicad_sch.lck
+oldgbr
+oldgbr/*
+*.gbrjob
+*.gbr
+TWUSDiySynthKit-B_Cu.gbr
+TWUSDiySynthKit-B_Mask.gbr
+TWUSDiySynthKit-B_Paste.gbr
+TWUSDiySynthKit-B_Silkscreen.gbr
+TWUSDiySynthKit-Edge_Cuts.gbr
+TWUSDiySynthKit-F_Cu.gbr
+TWUSDiySynthKit-F_Mask.gbr
+TWUSDiySynthKit-F_Paste.gbr
+TWUSDiySynthKit-F_Silkscreen.gbr
+TWUSDiySynthKit-job.gbrjob
+~TWUSDiySynthKit.kicad_sch.lck
+*.lck
