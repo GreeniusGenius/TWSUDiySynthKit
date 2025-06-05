@@ -1,0 +1,7 @@
+Default	True	2.0	3
++3.3V	True	2.0	3
+5V	True	2.0	3
+GND	True	2.0	3
+GPIO	True	2.0	3
+I2C	True	2.0	3
+True	True	False
