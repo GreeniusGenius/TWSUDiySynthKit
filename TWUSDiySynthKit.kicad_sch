@@ -11828,7 +11828,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/doc?60018"
 			(at 346.71 52.07 0)
 			(effects
 				(font
@@ -11856,7 +11856,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Yageo"
+		(property "Manufacturer" "Vishay"
 			(at 344.17 61.468 0)
 			(effects
 				(font
@@ -11885,8 +11885,26 @@
 				(justify left)
 			)
 		)
-		(property "JLCPCB ID" "C22975"
+		(property "JLCPCB ID" "C2076992"
 			(at 350.52 52.07 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "M55342E12B2B00RT5"
+			(at 346.71 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "75-M55342E12B2B00RT5 "
+			(at 346.71 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12089,7 +12107,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.co.uk/datasheet/2/585/MLCC-1837944.pdf"
 			(at 199.39 223.52 0)
 			(effects
 				(font
@@ -12117,7 +12135,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "AVX Corporation"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 196.85 232.918 0)
 			(effects
 				(font
@@ -12146,8 +12164,26 @@
 				(justify left)
 			)
 		)
-		(property "JLCPCB ID" "C14663"
+		(property "JLCPCB ID" "C6766062"
 			(at 200.66 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL31B104KBCNNND"
+			(at 199.39 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "187-CL31B104KBCNNND "
+			(at 199.39 223.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12275,7 +12311,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/doc?28758"
 			(at 228.6 104.14 0)
 			(effects
 				(font
@@ -12303,7 +12339,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Yageo"
+		(property "Manufacturer" "Vishay"
 			(at 231.14 113.538 0)
 			(effects
 				(font
@@ -12332,7 +12368,25 @@
 				(justify left)
 			)
 		)
-		(property "JLCPCB ID" "C25804"
+		(property "JLCPCB ID" "C2130614"
+			(at 228.6 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "TNPW060310K0FHEA"
+			(at 228.6 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "71-TNPW060310K0FHEA "
 			(at 228.6 104.14 0)
 			(effects
 				(font
@@ -12739,7 +12793,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://static.rapidonline.com/pdf/65-1494.pdf"
+		(property "Datasheet" "https://static.rapidonline.com/pdf/65-1494.pdf, https://www.mouser.co.uk/datasheet/2/564/eXH-3476786.pdf"
 			(at 260.35 77.47 0)
 			(effects
 				(font
@@ -12754,6 +12808,42 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "JLCPCB ID" "C163036"
+			(at 260.35 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Japan Solderless Terminals"
+			(at 260.35 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "S3B-XH-A-1(LF)(SN) "
+			(at 260.35 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "306-S3BXHA1LFSN "
+			(at 260.35 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -12888,6 +12978,42 @@
 			)
 		)
 		(property "Description" "Dual Precision Timers, DIP-14/SOIC-14"
+			(at 247.65 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB ID" "C66175"
+			(at 247.65 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 247.65 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "NE556N"
+			(at 247.65 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "595-NE556N"
 			(at 247.65 33.02 0)
 			(effects
 				(font
@@ -13527,7 +13653,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.co.uk/datasheet/2/564/eXH-3476786.pdf"
 			(at 264.16 209.55 0)
 			(effects
 				(font
@@ -13542,6 +13668,42 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "JLCPCB ID" "C163037"
+			(at 264.16 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Japan Solderless Terminals"
+			(at 264.16 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "S4B-XH-A-1(LF)(SN) "
+			(at 264.16 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "306-S4BXHA1LFSN"
+			(at 264.16 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "4"
@@ -13668,7 +13830,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://static.rapidonline.com/pdf/65-1400e.pdf"
+		(property "Datasheet" "https://static.rapidonline.com/pdf/65-1400e.pdf, https://www.mouser.co.uk/datasheet/2/564/eXH-3476786.pdf"
 			(at 342.9 68.58 0)
 			(effects
 				(font
@@ -13683,6 +13845,42 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Manufacturer" "Japan Solderless Terminals"
+			(at 344.17 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "S3B-XH-A-1(LF)(SN) "
+			(at 344.17 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "306-S3BXHA1LFSN "
+			(at 344.17 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB ID" "C163036"
+			(at 344.17 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -13739,7 +13937,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://cdn.sparkfun.com/assets/8/a/4/a/5/Kemet_Capacitor_Datasheet.pdf"
+		(property "Datasheet" "https://www.mouser.co.uk/datasheet/2/585/MLCC-1837944.pdf"
 			(at 226.06 166.37 0)
 			(effects
 				(font
@@ -13783,6 +13981,42 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 226.06 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB ID" "C6766062"
+			(at 226.06 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL31B104KBCNNND"
+			(at 226.06 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "187-CL31B104KBCNNND "
+			(at 226.06 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -14460,7 +14694,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.co.uk/datasheet/2/585/MLCC-1837944.pdf"
 			(at 156.21 205.74 0)
 			(effects
 				(font
@@ -14488,7 +14722,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "AVX Corporation"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 158.75 215.138 0)
 			(effects
 				(font
@@ -14517,8 +14751,26 @@
 				(justify left)
 			)
 		)
-		(property "JLCPCB ID" "C14663"
+		(property "JLCPCB ID" "C6766062"
 			(at 154.94 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL31B104KBCNNND"
+			(at 156.21 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "187-CL31B104KBCNNND "
+			(at 156.21 205.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14645,7 +14897,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://cdn.sparkfun.com/assets/8/a/4/a/5/Kemet_Capacitor_Datasheet.pdf"
+		(property "Datasheet" "https://www.mouser.co.uk/datasheet/2/585/MLCC-1837944.pdf"
 			(at 207.01 138.43 0)
 			(effects
 				(font
@@ -14689,6 +14941,42 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 207.01 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB ID" "C6766062"
+			(at 207.01 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL31B104KBCNNND"
+			(at 207.01 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "187-CL31B104KBCNNND "
+			(at 207.01 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -14742,7 +15030,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://static.rapidonline.com/pdf/65-1494.pdf"
+		(property "Datasheet" "https://static.rapidonline.com/pdf/65-1494.pdf, https://www.mouser.co.uk/datasheet/2/564/eXH-3476786.pdf"
 			(at 302.26 62.23 0)
 			(effects
 				(font
@@ -14757,6 +15045,42 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "JLCPCB ID" "C163036"
+			(at 302.26 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Japan Solderless Terminals"
+			(at 302.26 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "S3B-XH-A-1(LF)(SN) "
+			(at 302.26 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "306-S3BXHA1LFSN "
+			(at 302.26 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -14946,7 +15270,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.co.uk/datasheet/2/385/SEI_RMCF_RMCP-3077565.pdf"
 			(at 350.52 46.99 0)
 			(effects
 				(font
@@ -14974,7 +15298,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Yageo"
+		(property "Manufacturer" "SEI Stackpole"
 			(at 341.122 44.45 0)
 			(effects
 				(font
@@ -15002,8 +15326,26 @@
 				)
 			)
 		)
-		(property "JLCPCB ID" "C21190"
+		(property "JLCPCB ID" "C4130738"
 			(at 335.28 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RMCF0603JG1K00"
+			(at 350.52 46.99 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "708-RMCF0603JG1K00"
+			(at 350.52 46.99 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15063,7 +15405,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.co.uk/datasheet/2/564/JST_B4B_PH_SM4_TB_LF_SN_ePH-3481264.pdf"
 			(at 238.76 120.65 0)
 			(effects
 				(font
@@ -15073,6 +15415,42 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated"
+			(at 238.76 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB ID" "C157926"
+			(at 238.76 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Japan Solderless Terminals"
+			(at 238.76 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "S4B-PH-K-S(LF)(SN) "
+			(at 238.76 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "306-S4BPHKSLFSN "
 			(at 238.76 120.65 0)
 			(effects
 				(font
@@ -15613,7 +15991,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://cdn.sparkfun.com/assets/8/a/4/a/5/Kemet_Capacitor_Datasheet.pdf"
+		(property "Datasheet" "https://www.mouser.co.uk/datasheet/2/585/MLCC-1837944.pdf"
 			(at 302.26 88.9 0)
 			(effects
 				(font
@@ -15657,6 +16035,42 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 302.26 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB ID" "C6766062"
+			(at 302.26 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL31B104KBCNNND"
+			(at 302.26 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "187-CL31B104KBCNNND "
+			(at 302.26 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -15777,7 +16191,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://cdn.sparkfun.com/assets/8/a/4/a/5/Kemet_Capacitor_Datasheet.pdf"
+		(property "Datasheet" "https://www.mouser.co.uk/datasheet/2/585/MLCC-1837944.pdf"
 			(at 260.35 105.41 0)
 			(effects
 				(font
@@ -15821,6 +16235,42 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 260.35 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB ID" "C6766062"
+			(at 260.35 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL31B104KBCNNND"
+			(at 260.35 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "187-CL31B104KBCNNND "
+			(at 260.35 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -15875,7 +16325,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.co.uk/datasheet/2/564/eXH-3476786.pdf"
 			(at 331.47 85.09 0)
 			(effects
 				(font
@@ -15890,6 +16340,42 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "JLCPCB ID" "C157931"
+			(at 340.36 85.09 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Japan Solderless Terminals"
+			(at 340.36 85.09 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "S2B-XH-A(LF)(SN) "
+			(at 340.36 85.09 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "306-S2B-XH-ALFSN "
+			(at 340.36 85.09 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -15954,6 +16440,42 @@
 			)
 		)
 		(property "Description" "Dual Precision Timers, DIP-14/SOIC-14"
+			(at 285.75 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB ID" "C66175"
+			(at 285.75 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 285.75 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "NE556N"
+			(at 285.75 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "595-NE556N"
 			(at 285.75 33.02 0)
 			(effects
 				(font
@@ -16190,7 +16712,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.co.uk/datasheet/2/385/SEI_RMCF_RMCP-3077565.pdf"
 			(at 212.09 31.75 0)
 			(effects
 				(font
@@ -16218,7 +16740,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Yageo"
+		(property "Manufacturer" "SEI Stackpole"
 			(at 214.63 41.148 0)
 			(effects
 				(font
@@ -16247,8 +16769,26 @@
 				(justify left)
 			)
 		)
-		(property "JLCPCB ID" "C21190"
+		(property "JLCPCB ID" "C4130738"
 			(at 210.82 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RMCF0603JG1K00"
+			(at 212.09 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "708-RMCF0603JG1K00"
+			(at 212.09 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16357,7 +16897,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "RaspberryPi_Pico_W"
+		(property "Value" "RaspberryPi_Pico_2W"
 			(at 160.8933 248.92 0)
 			(effects
 				(font
@@ -16375,7 +16915,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheets.raspberrypi.com/picow/pico-w-datasheet.pdf"
+		(property "Datasheet" "https://datasheets.raspberrypi.com/picow/pico-2-w-datasheet.pdf"
 			(at 158.75 261.62 0)
 			(effects
 				(font
@@ -16386,6 +16926,33 @@
 		)
 		(property "Description" "Versatile and inexpensive wireless microcontroller module (with full pinout for test point and debug connections) powered by RP2040 dual-core Arm Cortex-M0+ processor up to 133 MHz, 264kB SRAM, 2MB QSPI flash, Infineon CYW43439 2.4GHz 802.11n wireless LAN"
 			(at 158.75 264.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Raspberry Pi Foundation"
+			(at 158.75 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "SC1633"
+			(at 158.75 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "358-SC1633 "
+			(at 158.75 209.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16585,7 +17152,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://cdn.sparkfun.com/assets/8/a/4/a/5/Kemet_Capacitor_Datasheet.pdf"
+		(property "Datasheet" "https://www.mouser.co.uk/datasheet/2/585/MLCC-1837944.pdf"
 			(at 283.21 46.99 0)
 			(effects
 				(font
@@ -16629,6 +17196,42 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 283.21 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB ID" "C6766062"
+			(at 283.21 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL31B104KBCNNND"
+			(at 283.21 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "187-CL31B104KBCNNND "
+			(at 283.21 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -16816,7 +17419,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://cdn.sparkfun.com/assets/8/a/4/a/5/Kemet_Capacitor_Datasheet.pdf"
+		(property "Datasheet" "https://www.mouser.co.uk/datasheet/2/585/MLCC-1837944.pdf"
 			(at 233.68 148.59 0)
 			(effects
 				(font
@@ -16860,6 +17463,42 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 219.71 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB ID" "C6766062"
+			(at 219.71 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL31B104KBCNNND"
+			(at 219.71 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "187-CL31B104KBCNNND "
+			(at 219.71 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -17115,7 +17754,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.co.uk/datasheet/2/585/MLCC-1837944.pdf"
 			(at 156.21 198.12 0)
 			(effects
 				(font
@@ -17143,7 +17782,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "AVX Corporation"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 153.67 207.518 0)
 			(effects
 				(font
@@ -17172,8 +17811,26 @@
 				(justify left)
 			)
 		)
-		(property "JLCPCB ID" "C14663"
+		(property "JLCPCB ID" "C6766062"
 			(at 157.48 210.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL31B104KBCNNND"
+			(at 156.21 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "187-CL31B104KBCNNND "
+			(at 156.21 198.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17306,7 +17963,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.co.uk/datasheet/2/564/JST_B4B_PH_SM4_TB_LF_SN_ePH-3481264.pdf"
 			(at 238.76 167.64 0)
 			(effects
 				(font
@@ -17316,6 +17973,42 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x03, script generated"
+			(at 238.76 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB ID" "C157929"
+			(at 238.76 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Japan Solderless Terminals Commercial"
+			(at 238.76 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "S3B-PH-K-S(LF)(SN) "
+			(at 238.76 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "306-S3BPHKSLFSN"
 			(at 238.76 167.64 0)
 			(effects
 				(font
@@ -17380,7 +18073,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.co.uk/datasheet/2/585/MLCC-1837944.pdf"
 			(at 298.45 40.64 0)
 			(effects
 				(font
@@ -17408,7 +18101,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "AVX Corporation"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 295.91 50.038 0)
 			(effects
 				(font
@@ -17437,8 +18130,26 @@
 				(justify left)
 			)
 		)
-		(property "JLCPCB ID" "C57112"
+		(property "JLCPCB ID" "C16196152"
 			(at 298.45 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL31B103KHFNFNE"
+			(at 298.45 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "187-CL31B103KHFNFNE "
+			(at 298.45 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17499,7 +18210,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.co.uk/datasheet/2/564/eGH-3477624.pdf"
 			(at 238.76 142.24 0)
 			(effects
 				(font
@@ -17509,6 +18220,42 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated"
+			(at 238.76 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB ID" "C7279904"
+			(at 238.76 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Japan Solderless Terminals"
+			(at 238.76 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "SM04B-GHMG-TB-(LF)(SN) "
+			(at 238.76 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "306-SM04BGHMGTBLFSN"
 			(at 238.76 142.24 0)
 			(effects
 				(font
@@ -17574,7 +18321,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDF0000/ABA0000C1059.pdf"
 			(at 337.82 31.75 0)
 			(effects
 				(font
@@ -17584,6 +18331,42 @@
 			)
 		)
 		(property "Description" "THT Electrolytic Capacitor, 6.3mm Diameter, 2.50mm Pitch, European Symbol, Alternate KiCad Library"
+			(at 337.82 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB ID" "C1583769"
+			(at 337.82 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Panasonic"
+			(at 337.82 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ECE-A1HKS100B"
+			(at 337.82 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "667-ECE-A1HKS100B "
 			(at 337.82 31.75 0)
 			(effects
 				(font
@@ -18044,7 +18827,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.co.uk/datasheet/2/564/JST_B4B_PH_SM4_TB_LF_SN_ePH-3481264.pdf"
 			(at 238.76 182.88 0)
 			(effects
 				(font
@@ -18054,6 +18837,42 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x03, script generated"
+			(at 238.76 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB ID" "C157929"
+			(at 238.76 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Japan Solderless Terminals Commercial"
+			(at 238.76 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "S3B-PH-K-S(LF)(SN) "
+			(at 238.76 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "306-S3BPHKSLFSN"
 			(at 238.76 182.88 0)
 			(effects
 				(font
@@ -18737,7 +19556,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.co.uk/datasheet/2/585/MLCC-1837944.pdf"
 			(at 260.35 54.61 0)
 			(effects
 				(font
@@ -18765,7 +19584,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "AVX Corporation"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 257.81 64.008 0)
 			(effects
 				(font
@@ -18794,8 +19613,26 @@
 				(justify left)
 			)
 		)
-		(property "JLCPCB ID" "C57112"
+		(property "JLCPCB ID" "C16196152"
 			(at 260.35 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL31B103KHFNFNE"
+			(at 260.35 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "187-CL31B103KHFNFNE "
+			(at 260.35 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19206,7 +20043,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://cdn.sparkfun.com/assets/8/a/4/a/5/Kemet_Capacitor_Datasheet.pdf"
+		(property "Datasheet" "https://www.mouser.co.uk/datasheet/2/585/MLCC-1837944.pdf"
 			(at 224.79 151.13 0)
 			(effects
 				(font
@@ -19250,6 +20087,42 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 224.79 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB ID" "C6766062"
+			(at 224.79 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL31B104KBCNNND"
+			(at 224.79 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "187-CL31B104KBCNNND "
+			(at 224.79 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -19370,7 +20243,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://static.rapidonline.com/pdf/65-1400e.pdf"
+		(property "Datasheet" "https://static.rapidonline.com/pdf/65-1400e.pdf, https://www.mouser.co.uk/datasheet/2/564/eXH-3476786.pdf"
 			(at 386.08 43.18 0)
 			(effects
 				(font
@@ -19385,6 +20258,42 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Manufacturer" "Japan Solderless Terminals"
+			(at 387.35 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "S3B-XH-A-1(LF)(SN) "
+			(at 387.35 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "306-S3BXHA1LFSN "
+			(at 387.35 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB ID" "C163036"
+			(at 387.35 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -19640,7 +20549,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://cdn.sparkfun.com/assets/8/a/4/a/5/Kemet_Capacitor_Datasheet.pdf"
+		(property "Datasheet" "https://www.mouser.co.uk/datasheet/2/585/MLCC-1837944.pdf"
 			(at 245.11 46.99 0)
 			(effects
 				(font
@@ -19684,6 +20593,42 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 245.11 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB ID" "C6766062"
+			(at 245.11 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL31B104KBCNNND"
+			(at 245.11 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "187-CL31B104KBCNNND "
+			(at 245.11 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -19740,7 +20685,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/doc?28758"
 			(at 219.71 105.41 0)
 			(effects
 				(font
@@ -19768,7 +20713,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Yageo"
+		(property "Manufacturer" "Vishay"
 			(at 222.25 114.808 0)
 			(effects
 				(font
@@ -19797,7 +20742,25 @@
 				(justify left)
 			)
 		)
-		(property "JLCPCB ID" "C25804"
+		(property "JLCPCB ID" "C2130614"
+			(at 219.71 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "TNPW060310K0FHEA"
+			(at 219.71 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "71-TNPW060310K0FHEA "
 			(at 219.71 105.41 0)
 			(effects
 				(font
