@@ -4,6 +4,9 @@
 	(generator_version "9.0")
 	(uuid "7876c4b8-b914-4c26-9bdb-c97fc8a45269")
 	(paper "A3")
+	(title_block
+		(company "GreeniusGenius")
+	)
 	(lib_symbols
 		(symbol "CPL:Potentiometer_CPL"
 			(pin_numbers

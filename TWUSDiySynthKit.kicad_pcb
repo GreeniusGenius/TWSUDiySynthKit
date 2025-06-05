@@ -7,6 +7,9 @@
 		(legacy_teardrops no)
 	)
 	(paper "A4")
+	(title_block
+		(company "GreeniusGenius")
+	)
 	(layers
 		(0 "F.Cu" mixed)
 		(2 "B.Cu" mixed)
