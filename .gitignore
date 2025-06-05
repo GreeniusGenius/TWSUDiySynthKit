@@ -405,3 +405,8 @@ TWUSDiySynthKit-job.gbrjob
 ~TWUSDiySynthKit.kicad_sch.lck
 *.lck
 .idea/TWUSDiySynthKit.iml
+
+internal
+internal/
+internal/*
+
