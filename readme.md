@@ -81,6 +81,6 @@ Mouser components + shipping to United Kingdom is £24.41 or US$33.12
 
 Components in .xlsx are £43.17 or US$59.46
 
-3D Printed Casing is US$24.94 (£18.41) + at least US$16.10 (£11.88) shipping from PCBWay for a total of £30.29 and US$41.04
+3D Printed Casing is about US$24.94 (£18.41) + at least US$16.10 (£11.88) shipping from PCBWay for a total of £30.29 and US$41.04
 
 **Therefore the total cost is £97.87 and US$133.62.**
