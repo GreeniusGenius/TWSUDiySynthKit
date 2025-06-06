@@ -28,3 +28,7 @@ _
 _Then I added a way to screw in my potentiometers since they have an M10 threading._
 
 At least another 3 hours.
+
+![Mounting for Speaker Driver](/img/Fri6JunSC6.png)
+_Added Speaker Aperture with bevelled edge so it is hypothetically flush_
+Another 15 mins.
