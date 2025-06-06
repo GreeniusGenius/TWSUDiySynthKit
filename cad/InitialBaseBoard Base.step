@@ -10,7 +10,7 @@ FILE_DESCRIPTION(
 
 FILE_NAME(
 /* name */ 'InitialBaseBoard Base.step',
-/* time_stamp */ '2025-06-06T18:10:55+01:00',
+/* time_stamp */ '2025-06-06T21:20:55+01:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v20.1',
@@ -6239,7 +6239,7 @@ SOLID_ANGLE_UNIT()
 #5858=SHAPE_REPRESENTATION('',(#3755),#5762);
 #5859=SHAPE_REPRESENTATION('',(#3764),#5763);
 #5860=PRODUCT_DEFINITION_CONTEXT('part definition',#5931,'design');
-#5861=PRODUCT_DEFINITION('InitialBaseBoard','InitialBaseBoard v51',#5884,
+#5861=PRODUCT_DEFINITION('InitialBaseBoard','InitialBaseBoard v54',#5884,
 #5860);
 #5862=PRODUCT_DEFINITION('ScrewBR','ScrewBR',#5885,#5860);
 #5863=PRODUCT_DEFINITION('WallRightSide','WallRightSide',#5886,#5860);
@@ -6289,8 +6289,8 @@ SOLID_ANGLE_UNIT()
 #5904=PRODUCT_DEFINITION_FORMATION('',$,#5953);
 #5905=PRODUCT_DEFINITION_FORMATION('',$,#5954);
 #5906=PRODUCT_DEFINITION_FORMATION('',$,#5955);
-#5907=PRODUCT_RELATED_PRODUCT_CATEGORY('InitialBaseBoard v51',
-'InitialBaseBoard v51',(#5933));
+#5907=PRODUCT_RELATED_PRODUCT_CATEGORY('InitialBaseBoard v54',
+'InitialBaseBoard v54',(#5933));
 #5908=PRODUCT_RELATED_PRODUCT_CATEGORY('ScrewBR','ScrewBR',(#5934));
 #5909=PRODUCT_RELATED_PRODUCT_CATEGORY('WallRightSide','WallRightSide',
 (#5935));
@@ -6323,7 +6323,7 @@ SOLID_ANGLE_UNIT()
 #5931=APPLICATION_CONTEXT(
 'Core Data for Automotive Mechanical Design Process');
 #5932=PRODUCT_CONTEXT('part definition',#5931,'mechanical');
-#5933=PRODUCT('InitialBaseBoard','InitialBaseBoard v51',$,(#5932));
+#5933=PRODUCT('InitialBaseBoard','InitialBaseBoard v54',$,(#5932));
 #5934=PRODUCT('ScrewBR','ScrewBR',$,(#5932));
 #5935=PRODUCT('WallRightSide','WallRightSide',$,(#5932));
 #5936=PRODUCT('BasePlateOffset (1)','BasePlateOffset (1)',$,(#5932));
