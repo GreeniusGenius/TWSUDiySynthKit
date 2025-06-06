@@ -3,6 +3,7 @@
 - This product is borne out of an original synthesiser kit built by the now bankrupt [Tech Will Save Us](https://en.wikipedia.org/wiki/Technology_Will_Save_Us) company.
 - The solderless breadboard nature of it frustrated me, and the lack of room to add a microcontroller for MIDI functionality on the breadboard made it unusable for how I would wish to use it.
 - Then I got bored whilst designing it, and decided I'd turn it into a Pi Pico (2(W)) dev board too.
+- That way I can prototype all of my projects in a single multipurpose board.
 - It supports a Raspberry Pi standard hat.
 - It supports a Raspberry Pi Pico bonnet.
 - It supports Adafruit Stemma QT and Stemma connectors.
@@ -12,6 +13,9 @@
 ![Right Hand Image](/img/TWUSDiySynthKitRight.png)
 ![PCB View](/img/pcb.pdf.png)
 ![Schematic View](/img/sch.pdf.png)
+![Case View](/img/InitialBaseBoard%20v38.png)
+![Case View No Lid](/img/InitialBaseBoard%20v382.png)
+![Case View No PCB](/img/InitialBaseBoard%20v383.png)
 
 ## Bill of Materials
 | Reference | Qty | Value                                             | Datasheet                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Link / URL                                                                                                     | Manufacturer  | Manufacturer_Part_Number | Price (GBP) | GBP/USD              | Price (USD) | Justification                                                                                            |
@@ -61,12 +65,19 @@
 | **H1,H2,H3,H4**                  | 4       | MountingHole_Pad             |         | Excluded from BOM    |                        | MountingHole:MountingHole_2.2mm_M2_DIN965                        | ~                                                                                                                                                                                                                                                                              |               |                                       |                              |                        |
 | **A2**                           | 1       | RaspberryPi_Pico_W           |         | Excluded from BOM    |                        | Module_RaspberryPi_Pico:RaspberryPi_Pico_Common_MountingHoles    | [https://datasheets.raspberrypi.com/picow/pico-w-datasheet.pdf](https://datasheets.raspberrypi.com/picow/pico-w-datasheet.pdf)                                                                                                                                                 |               |                                       |                              |                        |
 
+| FileName                   | Quantity | Price  |
+|----------------------------|----------|--------|
+| InitialBaseBoard Base.step | 1        | $17.16 |
+| InitialBaseBoard Lid.step  | 1        | $7.78  |
+
 Notes: The .csv file contains the PCB mounted bill of materials.
 The ExtraBOM contains the wiring needed to connect etc.
 The link to the mouser basket is here: https://www.mouser.co.uk/ProjectManager/ProjectDetail.aspx?AccessID=711d47ef2e
 
 Mouser components + shipping to United Kingdom is £24.41 or US$33.12
 
-Components in .xlsx are £37.44 or  US$ 51.65
+Components in .xlsx are £43.17 or US$59.46
 
-Therefore the total cost is £61.85 or $84.77
+3D Printed Casing is US$24.94 (£18.41) + at least US$16.10 (£11.88) shipping from PCBWay for a total of £30.29 and US$41.04
+
+**Therefore the total cost is £97.87 and US$133.62.**
