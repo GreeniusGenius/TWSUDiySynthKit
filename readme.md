@@ -6,8 +6,9 @@
 - That way I can prototype all of my projects in a single multipurpose board.
 - It supports a Raspberry Pi standard hat.
 - It supports a Raspberry Pi Pico bonnet.
-- It supports Adafruit Stemma QT and Stemma connectors.
-- It lets me try out the usage of jumpers to bypass voltage dividers reducing potential PCB revisions required.
+- _The second Pi you see in the renderings is actually where two headers will go allowing bonnets to be attached like eInk displays_
+- It supports Adafruit Stemma QT and Stemma connectors - which are perfect for prototyping using breakout boards due to the reliable solderless connections.
+- It lets me try out the usage of jumpers to bypass voltage dividers reducing potential PCB revisions required due to calculation errors.
 ![Centred Image](/img/TWUSDiySynthKitCentre.png)
 ![Left Hand Image](/img/TWUSDiySynthKitLeft.png)
 ![Right Hand Image](/img/TWUSDiySynthKitRight.png)
