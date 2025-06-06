@@ -12,10 +12,13 @@
 ![Left Hand Image](/img/TWUSDiySynthKitLeft.png)
 ![Right Hand Image](/img/TWUSDiySynthKitRight.png)
 ![PCB View](/img/pcb.pdf.png)
+_The PCB is a cost-effective two layer design with ground pours and high density of via stitching reduce ground loops and EMI._
 ![Schematic View](/img/sch.pdf.png)
+_Plated and grounded mounting holes are used to allow easy multimeter probing and increase durability._
 ![Case View](/img/InitialBaseBoard%20v38.png)
 ![Case View No Lid](/img/InitialBaseBoard%20v382.png)
 ![Case View No PCB](/img/InitialBaseBoard%20v383.png)
+_The case shields the synthesiser board and Pi Pico (2(W)) whilst the bonnet, hat, and JST connectors for peripherals are easily accessible_
 
 ## Bill of Materials
 | Reference | Qty | Value                                             | Datasheet                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Link / URL                                                                                                     | Manufacturer  | Manufacturer_Part_Number | Price (GBP) | GBP/USD              | Price (USD) | Justification                                                                                            |
